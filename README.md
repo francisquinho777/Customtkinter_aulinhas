@@ -15,8 +15,4 @@ Acompanho as aulas através da playlist:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **[Python 3.x](https://www.python.org/):** Linguagem base para lógica de programação.
-* **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):** Wrapper do Tkinter para a criação de UIs modernas.
-
-
--
+* **[Python 3.x](https://www.python.org/):** Linguagem base para lógica de programação
